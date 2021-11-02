@@ -6,7 +6,7 @@
 }
 
 html {
-    background: url(https://image.freepik.com/free-vector/ice-cream-pattern-background_1344-46.jpg);
+    background: url("/imgs/fondohelaros.jpg");
     height: 100vh;
 }
 
@@ -237,11 +237,10 @@ footer {
     padding: 10px 0px;
     max-width: 800px;
     width: 95%;
-
+margin-bottom: 20px;
     height: 100%;
     background-color: rgba(255, 255, 255, 0.75);
 
-    margin: 0px 10px;
 }
 .contenedor_footer-detalles {
     text-align: center;
