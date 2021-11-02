@@ -206,7 +206,7 @@ h1 {
     color: #5a5a5a;
 }
 .producto_espaciado {
-    height: 70px;
+    height: 10px;
 }
 
 /* <-- INICIO FOOTER --> */
@@ -241,7 +241,6 @@ footer {
     height: 100%;
 
     margin: 0px 10px;
-    padding: 50px 0px;
 }
 .contenedor_footer-detalles {
     text-align: center;
