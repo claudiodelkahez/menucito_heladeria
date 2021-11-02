@@ -69,7 +69,6 @@ header {
     flex-direction: column;
     width: 100%;
     padding-bottom: 20px;
-    font-size: 30px;
     text-align: center;
 }
 
@@ -90,9 +89,6 @@ h1 {
     padding-bottom: 20px;
 }
 
-.cabecera_descripcion {
-    font-size: 15px;
-}
 
 .cabecera_titulo {
     padding-top: 10px;
