@@ -6,7 +6,7 @@
 }
 
 html {
-    background: url("/imgs/fondohelaros.jpg");
+    background: url("../imgs/fondohelaros.jpg");
     height: 100vh;
 }
 
