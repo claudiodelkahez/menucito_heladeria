@@ -116,6 +116,14 @@ h1 {
     top: 0;
     background: #fff;
 }
+
+.cabecera_detalles {
+    text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
 .header_titulo img {
     justify-self: center;
     padding-left: 0.2rem;
