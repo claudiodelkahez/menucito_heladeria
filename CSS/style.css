@@ -91,7 +91,7 @@ h1 {
 }
 
 .cabecera_descripcion {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .cabecera_titulo {
@@ -171,6 +171,9 @@ h1 {
     padding: 10px 0px;
     font-size: 14px;
     color: #5a5a5a;
+}
+.producto_espaciado {
+    height: 70px;
 }
 .creditos {
     font-family: Arial, Helvetica, sans-serif;
